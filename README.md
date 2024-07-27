@@ -33,3 +33,6 @@ The application is a practical demonstration of how to consume APIs and display 
 - Check the current weather for a city.
 - Display the 5-day weather forecast.
 - Interactive interface for entering city names and displaying data.
+<hr />
+
+**Link para visualizar (Link for view):** https://weather-forecast-weld-ten.vercel.app/
